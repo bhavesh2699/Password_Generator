@@ -1,6 +1,7 @@
 # Password_Generator 
 🔐 A desktop app in python for generating unique password.As we indians are very bad at suggesting password and thats why our accounts easily gets hacked.This app will take password that you are thinking and will suggest a strong password and the password lenghth will be same as your input.
-# [![GitHub issues](https://img.shields.io/github/issues/bhavesh2699/Password_Generator)](https://github.com/bhavesh2699/Password_Generator/issues) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/bhavesh2699/Password_Generator) ![GitHub repo size](https://img.shields.io/github/repo-size/bhavesh2699/Password_Generator) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django)  ![Sonar Tests](https://img.shields.io/sonar/tests/org.ow2.petals:petals-se-ase?compact_message&failed_label=failed&passed_label=passed&server=http%3A%2F%2Fsonar.petalslink.com&skipped_label=skipped&sonarVersion=4.2) 
+# [![GitHub issues](https://img.shields.io/github/issues/bhavesh2699/Password_Generator)](https://github.com/bhavesh2699/Password_Generator/issues) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/bhavesh2699/Password_Generator) ![GitHub repo size](https://img.shields.io/github/repo-size/bhavesh2699/Password_Generator) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django)  ![Sonar Tests](https://img.shields.io/sonar/tests/org.ow2.petals:petals-se-ase?compact_message&failed_label=failed&passed_label=passed&server=http%3A%2F%2Fsonar.petalslink.com&skipped_label=skipped&sonarVersion=4.2)  [![Maintenance](https://img.shields.io/maintenance/yes/2019.svg?logo=npm&style=social)](https://github.com/bhavesh2699)
+ 
 
 # Libaraies Used
 - Tkinter
